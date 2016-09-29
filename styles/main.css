@@ -11,7 +11,7 @@ html {
 
 body {
     font-family: 'Open Sans'; /* sets our font to the "Open Sans" typeface */
-    color: black;             /* sets the text color to white */
+    color: white;             /* sets the text color to white */
     min-height: 100%;         /* says the height of the body must be, at minimum, 100% of the window */
 }
 
@@ -73,11 +73,12 @@ body.landing {
 
 .point .point-title {
     font-size: 1.25rem;
+    color: black;
 }
 
-.ion-navigate {
+.ion-earth {
     color: black;
-    font-size: 5rem;
+    font-size: 3rem;
 }
 
 .container {

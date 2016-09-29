@@ -13,7 +13,7 @@ body.landing {
 
 .hero-content .hero-title {
     position: absolute;
-    top: 40%;
+    top: 30%;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     transform: translateY(-50%);
@@ -41,10 +41,11 @@ body.landing {
 
 .point .point-title {
     font-size: 1.25rem;
+    color: black;
 }
 
-.ion-navigate
+.ion-earth
 {
     color: black;
-    font-size: 5rem;
+    font-size: 3rem;
 }
